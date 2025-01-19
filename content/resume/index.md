@@ -21,36 +21,33 @@ DoP - Natalie Kingston
 ### **Let’s Have Kids (2024)**
 
 Director - Adam Sztykiel
+
 DoP - Tim Orr
-Producers - Michael D Jones, Becky Sloviter, Alyssa Roehrenbeck
 
 ### **Flash Before the Bang (2024)**
 
 DoP - Bobby Bukowski
 
 ### Pig (2021)
-
 Director - Michael Sarnoski
+
 DoP - Pat Scola
-Producers - Steven Weisman, Kyle Eaton, Vanessa Block
 
 ### Cabin Fever (2016)
-
 Director - Travis Zariwny
+
 DoP - Gavin Kelly
-Producers - Evan Astrowsky, Michael D. Jones
 
 ### Burn Country (2016)
-
 Director - Ian Olds
+
 DoP - Adam Newport-Berra
-Producers - Rachel Nederveld, Lily Whitsitt
 
 ### All the Wilderness (2014)
 
 Director - [Michael James Johnson](https://www.imdb.com/name/nm5237337/?ref_=tt_ov_dr)
+
 DoP - Adam Newport-Berra
-Producers - Glenn Howerton, Jonathan Schwartz, Andrea Sperling
 
 # Series
 

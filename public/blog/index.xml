@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Hackett</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on Chris Hackett</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 22:07:04 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blackmagic Killed my Ultrastudio</title>
+      <link>http://localhost:1313/blog/blackmagickilledmyultrastudio3g/</link>
+      <pubDate>Sat, 18 Jan 2025 22:07:04 -0800</pubDate>
+      <guid>http://localhost:1313/blog/blackmagickilledmyultrastudio3g/</guid>
+      <description>&lt;p&gt;Well, it finally happened. Blackmagic has killed my Ultrastudio 3G with Thunderbolt 2.  They had Apple&amp;rsquo;s help with their new driver managment.&lt;/p&gt;
+&lt;p&gt;If you didn&amp;rsquo;t know, the decklink drivers on MacOS Sequoia is new a &amp;ldquo;Camera Driver&amp;rdquo;, and for whatever reason that seems to be causing a lot of issues for people with older ultrastudio hardware.&lt;/p&gt;
+&lt;p&gt;This happened right when I was starting a monitor calibration for Rushlight Studios, which made a simple job a bit of a pain. Fortunately I had purchased an AJA io4k over the summer since I was so impressed with AJA&amp;rsquo;s performance in Assimilate Scratch, and another bout of good fortune, Assimilate Scratch is compatible with my monitor calibration software (Colourspace) as a signal generator! So no hard feeling Blackmagic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Website, Who Dis?</title>
+      <link>http://localhost:1313/blog/250117/</link>
+      <pubDate>Fri, 17 Jan 2025 10:41:00 -0800</pubDate>
+      <guid>http://localhost:1313/blog/250117/</guid>
+      <description>&lt;p&gt;Check out the new site! It&amp;rsquo;s simple, it&amp;rsquo;s clean, its&amp;hellip;free?  That&amp;rsquo;s right! I&amp;rsquo;m using the CMS &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to create a dead simple site that&amp;rsquo;s managed with markdown files on github.&lt;/p&gt;
+&lt;p&gt;Why am I doing this? Well to save money obviously. And I really just wanted a website that was deconstructed, and looked a bit more like a notion document.  Hopefully I&amp;rsquo;m lowering the upkeep and making it easier to update in the process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
