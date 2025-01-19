@@ -1,0 +1,19 @@
+baseURL: https://wyzurd.com
+languageCode: en-us
+title: Chris Hackett
+theme: PaperMod
+#sectionPagesMenu: main
+menus:
+  main:
+  - name: Resume
+    pageRef: /resume
+    weight: 20
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Services
+    pageRef: /services
+    weight: 11
+  - name: Blog
+    pageRef: /blog
+    weight: 19
