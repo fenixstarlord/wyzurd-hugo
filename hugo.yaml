@@ -26,10 +26,10 @@ params:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
     subtitle: "Local 600 DIT (and some other stuff)"
-    imageUrl: "https://media.licdn.com/dms/image/v2/C4D03AQEYjjuoJ-nwmg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516805111091?e=2147483647&v=beta&t=bu-dKSsiy3S-zOSKl_SXkodjqf8hI5Z1MuznwQLxwQQ" # optional
-#    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageUrl: "/profile/goofy.jpeg"
+    imageTitle: "I have zero professional images of myself." # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
     buttons:
       - name: DIT
         url: "/services"
