@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Chris Hackett</title>
+    <title>Wyzurd</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Chris Hackett</description>
+    <description>Recent content on Wyzurd</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2025 22:07:04 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 10:40:52 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cam Creux iPad Mod</title>
+      <link>http://localhost:1313/blog/250121_camcreuxipadmod/</link>
+      <pubDate>Tue, 21 Jan 2025 10:40:52 -0800</pubDate>
+      <guid>http://localhost:1313/blog/250121_camcreuxipadmod/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m almost finished with modding my iPad mini with Cam Creux&amp;rsquo;s excellent &lt;a href=&#34;https://www.camcreux.com/product-page/spudnik-ipad-mod#&#34;&gt;netbridge mod&lt;/a&gt;. I started this in October but was pulled away by fatherhood and the chaos that comes with it.&lt;/p&gt;
+&lt;p&gt;This time I reprinted the case in PETG (previously in ASA) and I&amp;rsquo;ve soldered together the gold mount plate so that the ipad can run forrrrevvverrrrr.  I&amp;rsquo;m using a &lt;a href=&#34;https://cinemilled.com/p/core-swx-nano-micro-50-lithium-ion-battery-gold-mount/?srsltid=AfmBOoqI_pvSaxJvSr53Xl_WosdZiaf3-LqE66j1BJMNsb0mZS9SEjkR&#34;&gt;super tiny gold mount battery&lt;/a&gt; by Core SWX.&lt;/p&gt;
+&lt;p&gt;For those of you that don&amp;rsquo;t know, netbridge is a point to point 802.11ah chipset that allows a 1 to 4 communication.  It runs on the 900mhz frequency, meaning it goes a real long way (by &lt;a href=&#34;https://www.makeyourown.lol/learn/projects/teehee-halow/halow-range/&#34;&gt;Sam Petrov&amp;rsquo;s testing&lt;/a&gt;, the netbridge goes 580ft in the open).  Also due to it&amp;rsquo;s lower frequency, the 900mhz can easily punch through concrete and other walls.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blackmagic Killed my Ultrastudio</title>
       <link>http://localhost:1313/blog/blackmagickilledmyultrastudio3g/</link>
@@ -34,9 +43,9 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
+      <guid>http://localhost:1313/home/</guid>
       <description>&lt;h1 id=&#34;your-digital-imaging-technician&#34;&gt;Your Digital Imaging Technician&lt;/h1&gt;
 &lt;p&gt;As a professional Digital Imaging Technician (DIT) based in Portland, Oregon, I specialize in providing top-tier services to support your film and media production needs.&lt;/p&gt;
 &lt;h2 id=&#34;what-i-offer&#34;&gt;What I Offer&lt;/h2&gt;

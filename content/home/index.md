@@ -1,6 +1,6 @@
 ---
 draft: false
-url: '/'
+url: '/home'
 ---
 
 # Your Digital Imaging Technician
