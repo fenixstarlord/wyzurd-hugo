@@ -1,7 +1,11 @@
 ---
-date: '2025-01-21T10:40:52-08:00'
+date: 2025-01-21T10:40:52-08:00
 draft: false
-title: 'Cam Creux iPad Mod'
+title: Cam Creux iPad Mod
+tags:
+    - ipad
+    - netbridge
+    - solder
 ---
 I'm almost finished with modding my iPad mini with Cam Creux's excellent [netbridge mod](https://www.camcreux.com/product-page/spudnik-ipad-mod#). I started this in October but was pulled away by fatherhood and the chaos that comes with it.
 
@@ -16,3 +20,5 @@ That way the ipad can not only act as camera control but also as a spoke to the 
 Some day I'll switch completely over to Sam's Teehee Halow, which is a similar design but can mesh. Giving it, theoretically, a massive network range.
 
 As soon as I figure out how to easily post photos with hugo, I'll add some to my blog posts. But for now, just check out my instagram and take a look!
+
+![](/blog/IMG_6254.jpeg?w=50&h=50)

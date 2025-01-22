@@ -18,7 +18,6 @@ menus:
   - name: Blog
     pageRef: /blog
     weight: 19
-
 params:
   assets:
     favicon: "/assets/favicon.ico"
@@ -32,16 +31,20 @@ params:
     imageHeight: 200 # custom size
     buttons:
       - name: DIT
-        url: "/services"
+        url: "/services/dit"
       - name: Color / Conform / Finishing
-        url: "/services"
+        url: "/services/color"
       - name: Monitor Calibration
-        url: "/services"
+        url: "/services/calibration"
       - name: Live VFX
-        url: "/services"
+        url: "/services/livevfx"
 
   socialIcons: # optional
     - name: "instagram"
       url: "https://www.instagram.com/iamchrishackett/"
+    - name: "email"
+      url: "mailto:chris@wyzurd.com"
+    - name: "phone"
+      url: "tel:+15038903388"
 #    - name: "<platform 2>"
 #      url: "<link2>"
