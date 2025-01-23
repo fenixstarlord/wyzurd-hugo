@@ -25,7 +25,7 @@ params:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
     subtitle: "Local 600 DIT (and some other stuff)"
-    imageUrl: "/profile/goofy.jpeg"
+    imageUrl: "/profile/image-15.jpg"
     imageTitle: "I have zero professional images of myself." # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size

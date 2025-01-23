@@ -9,6 +9,7 @@ tags:
     - dit
 categories: []
 ---
+
 As a Local 600 Digital Imaging Technician (DIT), I specialize in ensuring your vision is captured exactly as intended. From managing on-set color grading to ensuring secure data backups, I bring precision and reliability to every production.
 
 ## What I Offer

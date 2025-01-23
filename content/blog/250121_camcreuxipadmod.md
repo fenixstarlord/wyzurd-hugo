@@ -21,4 +21,6 @@ Some day I'll switch completely over to Sam's Teehee Halow, which is a similar d
 
 As soon as I figure out how to easily post photos with hugo, I'll add some to my blog posts. But for now, just check out my instagram and take a look!
 
-![](/blog/IMG_6254.jpeg?w=50&h=50)
+Edit: Figured it out using Hugo's built in short codes.
+
+{{< figure src="/blog/IMG_6254.jpeg" alt="Sample Photo" width="300px" >}}

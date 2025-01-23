@@ -57,5 +57,12 @@
   ],
   "frontMatter.content.publicFolder": "static",
   "frontMatter.framework.id": "hugo",
-  "frontMatter.preview.host": "http://localhost:1313"
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.snippets": {
+    "Resize Image": {
+      "description": "",
+      "body": "{{< figure src=\"[[&mediaUrl]]\" alt=\"[[caption]]\" width=\"50px\" >}}",
+      "isMediaSnippet": true
+    }
+  }
 }
