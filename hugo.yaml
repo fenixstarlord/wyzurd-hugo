@@ -22,7 +22,9 @@ menus:
     weight: 19
 params:
   assets:
-    favicon: "/assets/favicon.ico"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
   profileMode:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
