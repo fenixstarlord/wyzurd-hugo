@@ -1,6 +1,9 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mfg92/hugo-shortcode-gallery.git
 [submodule "themes/hugo-shortcode-gallery"]
 	path = themes/hugo-shortcode-gallery
 	url = https://github.com/mfg92/hugo-shortcode-gallery.git
 [submodule "themes/PaperMod"]
-	path = themes/Papermod
+	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
