@@ -38,6 +38,8 @@
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
+    <loc>http://localhost:1313/services/calibration/</loc>
+  </url><url>
     <loc>http://localhost:1313/services/color/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -45,6 +47,8 @@
     <loc>http://localhost:1313/services/dit/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/dit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/livevfx/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/services/</loc>
   </url><url>

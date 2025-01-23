@@ -40,6 +40,8 @@ params:
         url: "/services/livevfx"
 
   socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/chris-hackett-00926819/"
     - name: "instagram"
       url: "https://www.instagram.com/iamchrishackett/"
     - name: "email"
