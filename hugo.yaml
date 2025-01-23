@@ -1,7 +1,9 @@
 baseURL: https://wyzurd.com
 languageCode: en-us
 title: Wyzurd
-theme: PaperMod
+theme: 
+  - PaperMod
+  - hugo-shortcode-gallery
 #theme: hugo-theme-m10c
 #sectionPagesMenu: main
 menus:
@@ -34,7 +36,7 @@ params:
         url: "/services/dit"
       - name: Color / Conform / Finishing
         url: "/services/color"
-      - name: Monitor Calibration
+      - name: Display Calibration
         url: "/services/calibration"
       - name: Live VFX
         url: "/services/livevfx"

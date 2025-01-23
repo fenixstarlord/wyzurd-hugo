@@ -42,6 +42,8 @@
   </url><url>
     <loc>http://localhost:1313/services/color/</loc>
   </url><url>
+    <loc>http://localhost:1313/blog/2025-01-23-ai-headshots/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/services/dit/</loc>

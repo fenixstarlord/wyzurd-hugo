@@ -1,0 +1,21 @@
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    {{- if .Get "src1" }}
+      <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" | default "Image 1" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+    {{- if .Get "src2" }}
+      <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" | default "Image 2" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+    {{- if .Get "src3" }}
+      <img src="{{ .Get "src3" }}" alt="{{ .Get "alt3" | default "Image 3" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+    {{- if .Get "src4" }}
+      <img src="{{ .Get "src4" }}" alt="{{ .Get "alt4" | default "Image 4" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+    {{- if .Get "src5" }}
+      <img src="{{ .Get "src5" }}" alt="{{ .Get "alt5" | default "Image 5" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+    {{- if .Get "src6" }}
+      <img src="{{ .Get "src6" }}" alt="{{ .Get "alt6" | default "Image 6" }}" style="width: {{ .Get "width" | default "200px" }}; height: auto;">
+    {{- end }}
+  </div>
+  

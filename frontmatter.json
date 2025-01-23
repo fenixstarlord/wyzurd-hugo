@@ -63,6 +63,38 @@
       "description": "",
       "body": "{{< figure src=\"[[&mediaUrl]]\" alt=\"[[caption]]\" width=\"50px\" >}}",
       "isMediaSnippet": true
+    },
+    "Gallery": {
+      "description": "Gallery Shortcode",
+      "body": [
+        "{{< galleries >}}",
+        "{{< gallery src=\"/blog/er-1.webp\" title=\"Elden Ring\" >}}",
+        "{{< gallery src=\"/blog/er-2.webp\" title=\"Best Soulsborne Game\" >}}",
+        "{{< gallery src=\"/blog/er-3.webp\" title=\"Deep Lore\" >}}",
+        "{{< gallery src=\"/blog/er-4.webp\" title=\"Awesome Bosses\" >}}",
+        "{{< gallery src=\"/blog/er-5.webp\" title=\"Dark Atmosphere\" >}}",
+        "{{< gallery src=\"/blog/er-6.webp\" title=\"Perfectly Balanced Difficulty\" >}}",
+        "{{< /galleries >}}"
+      ],
+      "fields": []
+    },
+    "GPT Gallery": {
+      "description": "",
+      "body": [
+        "{{< sidebyside ",
+        "    src1=\"/images/photo1.jpg\" alt1=\"Photo 1\" ",
+        "    src2=\"/images/photo2.jpg\" alt2=\"Photo 2\" ",
+        "    src3=\"/images/photo3.jpg\" alt3=\"Photo 3\" ",
+        "    width=\"250px\" ",
+        ">}}",
+        ""
+      ],
+      "fields": []
+    },
+    "Lightbox Gallery": {
+      "description": "",
+      "body": "{{< gallery match=\"images/*\" sortOrder=\"desc\" rowHeight=\"150\" margins=\"5\" thumbnailResizeOptions=\"600x600 q90 Lanczos\" showExif=true previewType=\"blur\" embedPreview=true loadJQuery=true >}}",
+      "fields": []
     }
   }
 }

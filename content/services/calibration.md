@@ -6,6 +6,13 @@ preview: ""
 tags: []
 categories: []
 ---
+{{< sidebyside 
+    src1="/calibration/cube.png" alt1="Photo 1" 
+    src2="/calibration/main.png" alt2="Photo 2" 
+    src3="/calibration/balance.png" alt3="Photo 3" 
+    width="200px" 
+>}}
+
 # Monitor Calibration
 ## 🎥 See Your Vision in True Color
 
