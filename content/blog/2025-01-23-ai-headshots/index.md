@@ -2,9 +2,10 @@
 draft: false
 title: Ai Headshots
 description: ""
-date: null
+date: 2025-01-23T20:27:11.250Z
 preview: ""
-tags: []
+tags:
+    - ai
 categories: []
 ---
 I figured it was time to refresh my social media presence in the gig space (LinkedIn) and I realized I'm usually the guy behind the camera.  Not only that, but now that I have two kids, I just don't have the time to set up a photo shoot for myself.  So I did what any responsible American did in the year 2025, I turned to ai.
