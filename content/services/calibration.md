@@ -1,6 +1,7 @@
 ---
 draft: false
 description: ""
+title: Monitor Calibration
 date: null
 preview: ""
 tags: []
@@ -10,26 +11,17 @@ categories: []
     src1="/calibration/cube.png" alt1="Photo 1" 
     src2="/calibration/main.png" alt2="Photo 2" 
     src3="/calibration/balance.png" alt3="Photo 3" 
-    width="200px" 
+    width="150px" 
 >}}
 
-# Monitor Calibration
-## 🎥 See Your Vision in True Color
+The swings from a freezing night shoot to a sweltering summer day can cause field production displays to drift over time, causing a global tint towrds blue, or putting a natural lift into the shadows. With a professional display, these imperfections can be tuned back towards a near factory state.
 
-In the world of filmmaking, precision is everything. As a monitor calibration specialist, I ensure your displays deliver accurate, consistent colors—so what you see on set is exactly what you'll get in post-production and beyond.
+### Display Balance
+#### $200, 1-2hr per display
+Using a spectrophotometer and a colirometer I will analyze your display and balance your RGB values at full bright and at 20% - 30% grey.  This will correct most color shifts. I will also change your display lumninance and contrast to get as close to your color space as possible (usually REC709).
 
-## What I Offer:
-- 🎛️ Expert Calibration: Optimize your monitors for accurate color, brightness, and gamma using industry-standard tools and techniques.
-- 🎨 Color Accuracy for Every Workflow: From HDR grading suites to on-set reference monitors, I ensure consistency across all displays.
-- 📋 Custom Profiles: Tailored calibration settings for your specific camera and workflow needs.
-- ⚡ Fast, Reliable Service: Quick turnaround times to keep your production running smoothly.
+Usually to attain a fully correct contrast response a characterization may be required.
 
-## Why Calibrate Your Monitors?
-- Eliminate guesswork in color grading and lighting decisions.
-- Maintain creative intent across every stage of production.
-- Comply with industry standards for broadcast, cinema, and streaming.
-- 📍 Based in Portland, OR
-- Available for on-set, studio, or remote calibration services across the Pacific Northwest.
-
-### 🎬 Achieve Picture-Perfect Accuracy with Professional Monitor Calibration.
-Color Confidence Starts Here.
+### Display Charecterization
+#### $500, 4-6hr per display
+With a display characterization I will run a series of color patches and measure the degrees of error.  Using a large dataset I can create a 3D LUT that will correct for contrast and color errors. This information can be uploaded directly to the monitor (Flanders, SmallHD) or loaded through a LUT Box (Sony).

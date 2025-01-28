@@ -13,9 +13,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/calibration/</guid>
       <description>&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/cube.png&#34; alt=&#34;Photo 1&#34; style=&#34;width: 200px; height: auto;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/main.png&#34; alt=&#34;Photo 2&#34; style=&#34;width: 200px; height: auto;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/balance.png&#34; alt=&#34;Photo 3&#34; style=&#34;width: 200px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/cube.png&#34; alt=&#34;Photo 1&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/main.png&#34; alt=&#34;Photo 2&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/balance.png&#34; alt=&#34;Photo 3&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
   &lt;/div&gt;
   
 &lt;h1 id=&#34;monitor-calibration&#34;&gt;Monitor Calibration&lt;/h1&gt;
@@ -44,7 +44,14 @@
       <link>http://localhost:1313/services/color/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/color/</guid>
-      <description>&lt;h2 id=&#34;color-grading&#34;&gt;Color Grading&lt;/h2&gt;
+      <description>&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/dit/dit_01.jpeg&#34; alt=&#34;Photo 1&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/dit/dit_02.jpeg&#34; alt=&#34;Photo 2&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/dit/dit_03.jpeg&#34; alt=&#34;Photo 3&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/dit/dit_04.jpeg&#34; alt=&#34;Photo 4&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;h2 id=&#34;color-grading&#34;&gt;Color Grading&lt;/h2&gt;
 &lt;p&gt;With a color-managed pipeline, every frame is handled with precision—whether it’s on-set monitoring, dailies, or final delivery—ensuring your vision translates seamlessly across all platforms and screens. Let’s collaborate to create stunning visuals that enhance your narrative. Reach out today to discuss your color grading needs!&lt;/p&gt;
 &lt;h2 id=&#34;confrom-editing&#34;&gt;Confrom Editing&lt;/h2&gt;
 &lt;p&gt;In today’s diverse media landscape, delivering content in multiple aspect ratios is often a requirement. I specialize in conform editing, ensuring your footage is seamlessly adapted for various formats—whether it’s widescreen, vertical video, or square crops—without compromising on quality or composition.&lt;/p&gt;</description>

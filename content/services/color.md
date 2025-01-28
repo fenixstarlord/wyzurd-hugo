@@ -6,6 +6,13 @@ preview: ""
 tags: []
 categories: []
 ---
+{{< sidebyside 
+    src1="/dit/dit_01.jpeg" alt1="Photo 1" 
+    src2="/dit/dit_02.jpeg" alt2="Photo 2" 
+    src3="/dit/dit_03.jpeg" alt3="Photo 3" 
+    src4="/dit/dit_04.jpeg" alt4="Photo 4"
+    width="150px" 
+>}}
 ## Color Grading
 With a color-managed pipeline, every frame is handled with precision—whether it’s on-set monitoring, dailies, or final delivery—ensuring your vision translates seamlessly across all platforms and screens. Let’s collaborate to create stunning visuals that enhance your narrative. Reach out today to discuss your color grading needs!
 ## Confrom Editing
