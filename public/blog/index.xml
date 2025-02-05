@@ -42,5 +42,24 @@
       <description>&lt;p&gt;Check out the new site! It&amp;rsquo;s simple, it&amp;rsquo;s clean, its&amp;hellip;free?  That&amp;rsquo;s right! I&amp;rsquo;m using the CMS &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to create a dead simple site that&amp;rsquo;s managed with markdown files on github.&lt;/p&gt;
 &lt;p&gt;Why am I doing this? Well to save money obviously. And I really just wanted a website that was deconstructed, and looked a bit more like a notion document.  Hopefully I&amp;rsquo;m lowering the upkeep and making it easier to update in the process.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Meshtastic</title>
+      <link>http://localhost:1313/blog/2025-02-05-meshtastic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-02-05-meshtastic/</guid>
+      <description>&lt;p&gt;The other day my good friend George Costakis brought up his interest in Meshtastic, a 915mhz comms network. Meshtastic had been floating around my periphary for a while, and the idea of joining a node network that could bridge my house to George&amp;rsquo;s sounded pretty cool. Queue my hyperfixation!&lt;/p&gt;
+&lt;h1 id=&#34;hands-on&#34;&gt;Hands On&lt;/h1&gt;
+&lt;p&gt;At first I overnighted a heltec v3 just play with. It became very clear, almost immediatly, that the all in one kits for $20 are pretty much worthless without additional parts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk Konnect Audio Configuration</title>
+      <link>http://localhost:1313/blog/2025-02-04-talk-konnect-audio-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-02-04-talk-konnect-audio-configuration/</guid>
+      <description>&lt;h3 id=&#34;bootfirmwareconfigtxt&#34;&gt;/boot/firmware/config.txt&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;# Enable audio (loads snd_bcm2835) dtparam=audio=on audio_pwm_mode=2 dtoverlay=audremap,pins_23 &lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;asoundrc&#34;&gt;~/.asoundrc&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;   pcm.!default { type asym capture.pcm &amp;quot;mic&amp;quot; playback.pcm&amp;quot;speaker&amp;quot; } pcm.mic { type plug slave { pcm&amp;quot;hw:1,0&amp;quot; }        } pcm.speaker { type plug slave { pcm&amp;quot;hw:0,0&amp;quot; } }&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

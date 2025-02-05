@@ -9,38 +9,6 @@
     <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/services/calibration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/calibration/</guid>
-      <description>&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/cube.png&#34; alt=&#34;Photo 1&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/main.png&#34; alt=&#34;Photo 2&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/calibration/balance.png&#34; alt=&#34;Photo 3&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
-  &lt;/div&gt;
-  
-&lt;h1 id=&#34;monitor-calibration&#34;&gt;Monitor Calibration&lt;/h1&gt;
-&lt;h2 id=&#34;-see-your-vision-in-true-color&#34;&gt;🎥 See Your Vision in True Color&lt;/h2&gt;
-&lt;p&gt;In the world of filmmaking, precision is everything. As a monitor calibration specialist, I ensure your displays deliver accurate, consistent colors—so what you see on set is exactly what you&amp;rsquo;ll get in post-production and beyond.&lt;/p&gt;
-&lt;h2 id=&#34;what-i-offer&#34;&gt;What I Offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🎛️ Expert Calibration: Optimize your monitors for accurate color, brightness, and gamma using industry-standard tools and techniques.&lt;/li&gt;
-&lt;li&gt;🎨 Color Accuracy for Every Workflow: From HDR grading suites to on-set reference monitors, I ensure consistency across all displays.&lt;/li&gt;
-&lt;li&gt;📋 Custom Profiles: Tailored calibration settings for your specific camera and workflow needs.&lt;/li&gt;
-&lt;li&gt;⚡ Fast, Reliable Service: Quick turnaround times to keep your production running smoothly.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;why-calibrate-your-monitors&#34;&gt;Why Calibrate Your Monitors?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Eliminate guesswork in color grading and lighting decisions.&lt;/li&gt;
-&lt;li&gt;Maintain creative intent across every stage of production.&lt;/li&gt;
-&lt;li&gt;Comply with industry standards for broadcast, cinema, and streaming.&lt;/li&gt;
-&lt;li&gt;📍 Based in Portland, OR&lt;/li&gt;
-&lt;li&gt;Available for on-set, studio, or remote calibration services across the Pacific Northwest.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-achieve-picture-perfect-accuracy-with-professional-monitor-calibration&#34;&gt;🎬 Achieve Picture-Perfect Accuracy with Professional Monitor Calibration.&lt;/h3&gt;
-&lt;p&gt;Color Confidence Starts Here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/services/color/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/color/</guid>
@@ -84,6 +52,22 @@ As a Local 600 Digital Imaging Technician (DIT), I specialize in ensuring your v
 &lt;p&gt;As a Live VFX Specialist, I leverage the power of Assimilate software to deliver stunning visual effects in real-time, right on set. Whether you&amp;rsquo;re creating immersive environments, enhancing practical effects, or blending digital and physical worlds, I ensure your vision comes to life with precision and speed.&lt;/p&gt;
 &lt;h2 id=&#34;what-i-offer&#34;&gt;What I Offer:&lt;/h2&gt;
 &lt;p&gt;🎥 Real-Time Compositing: See your VFX integrated into the live feed instantly, enabling creative decision-making on the spot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor Calibration</title>
+      <link>http://localhost:1313/services/calibration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/calibration/</guid>
+      <description>&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/cube.png&#34; alt=&#34;Photo 1&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/main.png&#34; alt=&#34;Photo 2&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/calibration/balance.png&#34; alt=&#34;Photo 3&#34; style=&#34;width: 150px; height: auto;&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;p&gt;The swings from a freezing night shoot to a sweltering summer day can cause field production displays to drift over time, causing a global tint towrds blue, or putting a natural lift into the shadows. With a professional display, these imperfections can be tuned back towards a near factory state.&lt;/p&gt;
+&lt;h3 id=&#34;display-balance&#34;&gt;Display Balance&lt;/h3&gt;
+&lt;h4 id=&#34;200-1-2hr-per-display&#34;&gt;$200, 1-2hr per display&lt;/h4&gt;
+&lt;p&gt;Using a spectrophotometer and a colirometer I will analyze your display and balance your RGB values at full bright and at 20% - 30% grey.  This will correct most color shifts. I will also change your display lumninance and contrast to get as close to your color space as possible (usually REC709).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

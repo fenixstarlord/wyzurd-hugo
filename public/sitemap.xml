@@ -41,8 +41,6 @@
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/calibration/</loc>
-  </url><url>
     <loc>http://localhost:1313/services/color/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -53,8 +51,14 @@
   </url><url>
     <loc>http://localhost:1313/services/livevfx/</loc>
   </url><url>
+    <loc>http://localhost:1313/blog/2025-02-05-meshtastic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/calibration/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/services/</loc>
   </url><url>
     <loc>http://localhost:1313/services/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2025-02-04-talk-konnect-audio-configuration/</loc>
   </url>
 </urlset>

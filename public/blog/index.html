@@ -176,6 +176,45 @@ Why am I doing this? Well to save money obviously. And I really just wanted a we
   <footer class="entry-footer"><span title='2025-01-17 10:41:00 -0800 PST'>January 17, 2025</span></footer>
   <a class="entry-link" aria-label="post link to New Website, Who Dis?" href="http://localhost:1313/blog/250117/"></a>
 </article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Meshtastic
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>The other day my good friend George Costakis brought up his interest in Meshtastic, a 915mhz comms network. Meshtastic had been floating around my periphary for a while, and the idea of joining a node network that could bridge my house to George’s sounded pretty cool. Queue my hyperfixation!
+Hands On At first I overnighted a heltec v3 just play with. It became very clear, almost immediatly, that the all in one kits for $20 are pretty much worthless without additional parts.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Meshtastic" href="http://localhost:1313/blog/2025-02-05-meshtastic/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Talk Konnect Audio Configuration
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>/boot/firmware/config.txt # Enable audio (loads snd_bcm2835) dtparam=audio=on audio_pwm_mode=2 dtoverlay=audremap,pins_23 ~/.asoundrc pcm.!default { type asym capture.pcm &#34;mic&#34; playback.pcm&#34;speaker&#34; } pcm.mic { type plug slave { pcm&#34;hw:1,0&#34; } } pcm.speaker { type plug slave { pcm&#34;hw:0,0&#34; } }
+</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Talk Konnect Audio Configuration" href="http://localhost:1313/blog/2025-02-04-talk-konnect-audio-configuration/"></a>
+</article>
     </main>
     
 <footer class="footer">
