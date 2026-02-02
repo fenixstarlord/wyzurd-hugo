@@ -29,7 +29,7 @@ params:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
     subtitle: "Post Specialist"
-    imageUrl: "/profile/portrait_1x1.png"
+    imageUrl: "/profile/portrait_1x1.jpeg"
     imageTitle: "I have zero professional images of myself." # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
