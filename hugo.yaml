@@ -28,7 +28,7 @@ params:
   profileMode:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
-    subtitle: "Local 600 DIT (and some other stuff)"
+    subtitle: "Post Specialist"
     imageUrl: "/profile/image-15.jpg"
     imageTitle: "I have zero professional images of myself." # optional
     imageWidth: 200 # custom size
