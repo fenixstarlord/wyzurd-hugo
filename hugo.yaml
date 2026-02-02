@@ -28,7 +28,7 @@ params:
   profileMode:
     enabled: true
     title: "Chris Hackett" # optional default will be site title
-    subtitle: "Local 600 DIT (and some other stuff)"
+    subtitle: "Post Specialist"
     imageUrl: "/profile/image-15.jpg"
     imageTitle: "I have zero professional images of myself." # optional
     imageWidth: 200 # custom size
@@ -38,10 +38,6 @@ params:
         url: "/services/dit"
       - name: Color / Conform / Finishing
         url: "/services/color"
-      - name: Display Calibration
-        url: "/services/calibration"
-      - name: Live VFX
-        url: "/services/livevfx"
 
   socialIcons: # optional
     - name: "linkedin"
