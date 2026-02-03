@@ -1,0 +1,32 @@
+<!-- Vanta.js background styles -->
+{{ if .IsHome }}
+<style>
+  #vanta-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+
+  .main {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Make profile section slightly transparent to show background */
+  .profile {
+    background: rgba(var(--background-rgb, 255, 255, 255), 0.85);
+    border-radius: 12px;
+    padding: 2rem;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  /* Dark mode adjustments */
+  .dark .profile {
+    background: rgba(var(--background-rgb, 29, 30, 32), 0.85);
+  }
+</style>
+{{ end }}
